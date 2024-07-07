@@ -10,7 +10,7 @@ AND EDIT THE  MODEL FILE.
 <h1 align="center">Awesome Android Kotlin Apps</h1></br>
 
 <p align="center">
-:eyeglasses: A curated list of awesome android kotlin apps by open-source contributors. 
+:eyeglasses: A curated list of awesome android kotlin apps by open-source contributors.
 </p>
 <br>
 
